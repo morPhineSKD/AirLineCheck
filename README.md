@@ -1,2 +1,2 @@
 # AirLineCheck
-Disertatie
+Disertatie - proiect
